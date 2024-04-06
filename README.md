@@ -1,6 +1,6 @@
 # git-ps-rs - Git Patch Stack
 
-This is the official source repository for the Git Patch Stack command line
+This is a forked source repository for the Git Patch Stack command line
 interface, `gps`. 
 
 The legacy command line tool for Git Patch Stack,
